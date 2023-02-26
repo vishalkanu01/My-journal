@@ -17,5 +17,15 @@
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
         app:lottie_rawRes="@raw/welcome" />
+    <TextView
+        android:layout_marginStart="130dp"
+        android:layout_marginEnd="500dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My journal"
+        android:textColor="@color/black"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

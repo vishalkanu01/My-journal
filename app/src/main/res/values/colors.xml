@@ -11,4 +11,8 @@
     <color name="light_grey">#DEE1E9</color>
     <color name="dark_grey">#9DA0A2</color>
     <color name="light_orange">#B05F35</color>
+    <color name="dark_purple">#2C0061</color>
+    <color name="light_purple">#955BEB</color>
+    <color name="yellow">#FFD65F</color>
+    <color name="sky_blue">#5C8CF5</color>
 </resources>
