@@ -1,6 +1,6 @@
 # My Journal
 
-My Journal is an android application developed for the Mobile App Development Course compulsory requirement.
+My Journal is an android application developed for the Mobile App Development Course.
 
 <img src="https://user-images.githubusercontent.com/48189022/222512414-a2643621-9a9a-474f-8d6f-c4b12229a849.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/48189022/222512442-1e1c2bda-792d-45f0-a41c-81ab36805f48.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/48189022/222512457-ce256937-c842-4143-859b-492162473fcc.jpg" width="200" height="400" />
 
