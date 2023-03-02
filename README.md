@@ -12,9 +12,6 @@ Clone the repo and open it in android studio. This code requires you to connect 
 Git clone https://github.com/vishalkanu01/My-journal.git
 ```
 
-
-```
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
